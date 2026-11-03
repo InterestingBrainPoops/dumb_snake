@@ -1,0 +1,6 @@
+/target
+.env
+deploy.ps1
+Dockerfile
+compose.yaml
+README.md
